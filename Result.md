@@ -1,2 +1,2 @@
-﻿![tela](../CGTask/Tarefa.png)
+﻿![tela](C:\Users\kevin\OneDrive\Área de Trabalho\CGTask\CGTask\Tarefa.png)
 
